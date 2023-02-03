@@ -1,0 +1,63 @@
+body{
+    background-color: aquamarine;
+}
+#Girl{
+float:left;
+position: relative;
+top: 200px;
+
+}
+#Boy{
+float: right;
+position:relative;
+top:200px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+#boyTitle{
+    position: relative;
+    left: 1800px
+}
+#start, #game-over{
+    font-family: 'Press Start 2P', cursive;
+    color:blueviolet;
+    padding: 20px;
+    position: fixed;
+    top:50%;
+    left:50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    height: 200px;
+    width: 250px;
+    text-align: center;
+}
+
+#start a, #game-over a{
+    border: 3px solid;
+    color: blueviolet;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    text-align: center;
+    font-size: 2em;
+    display: inline-block;
+}
+
+#game{
+    font-family: 'Press Start 2P', cursive;
+}
+.popout {
+    animation: popout 1s ease;
+    -webkit-animation: popout 1s ease;
+    
+}
+@keyframes popout {
+    from{transform:scale(0)}
+    80%{transform:scale(1.2)}
+    to{transform:scale(1)}
+}

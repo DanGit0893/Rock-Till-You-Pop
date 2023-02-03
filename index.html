@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Till You Pop</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+      </style>
+</head>
+<body>
+
+    <div id = "game" style="display: none">
+    <h1>Rock Till <br>You Pop</h1>
+    <h2 id = girlTitle >Player 1</h2>
+    <h2 id = boyTitle >Player 2</h2>
+    <img id="Girl" src="Assets/pngegg (27).png">
+    <img id="Boy" src="Assets/pngegg (28).png">
+    </div>
+    <div id = "start" style="display: block">
+        <a href="#" onclick="game.startGame()">Start Game</a>
+    </div>
+    <div id = "game-over" style="display: none">
+        <h1>Game Over</h1>
+        <a href="#" onclick="game.resetGame()">Start Game</a>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
