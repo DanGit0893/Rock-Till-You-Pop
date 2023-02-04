@@ -16,7 +16,7 @@ Background image
 Rock Till You Pop
 ## Project Description
 > A short description of your game.
-My app is called Rockem Sockem Robots. It's a game app for players who want to play Rockem Sockem Robots online. Two players can join an online game and play a round of RSR, with game results displayed at then end of a round -- whichever player won. Users will have the option to play again.
+My app is called Rock Till You Pop. It's a game app for players who want to play Rock Till You Pop. Two players can join an online game and play a round of RTYP, with game results displayed at then end of a round -- whichever player won. Users will have the option to play again.
 ## Wire Frames
 
 
