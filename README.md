@@ -9,6 +9,7 @@ Background image
 ## Visuals
 
 <img width="1858" alt="Screenshot 2023-02-03 at 4 18 55 PM" src="https://user-images.githubusercontent.com/97042563/216722952-60d44501-1e28-4b7b-a38a-0fcf0c9b3893.png">
+<<<<<<< HEAD
 
 ## Project Choice (Tell us which project you're doing!)
 > A name for your Project  
@@ -49,3 +50,5 @@ My app is called Rockem Sockem Robots. It's a game app for players who want to p
 - HTML5 for the structure of the page
 - CSS for the styling
 - I also used Key Frames and animation
+=======
+>>>>>>> a7888b06c0c3a598a5ecc2876d7f9546917a2653
