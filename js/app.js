@@ -55,8 +55,8 @@ const game = {
         boyTotal += 1
     },
     setName(){
-        girlPlayer.name = prompt("Enter a name for the girl avatar:")
-        boyPlayer.name = prompt("Enter a name for the boy avatar:")
+        girlPlayer.name = prompt("Please enter a name for the girl avatar:")
+        boyPlayer.name = prompt("Please enter a name for the boy avatar:")
         const girlID = document.getElementById("girlTitle")
         const boyID = document.getElementById("boyTitle")
         girlID.innerText = `${girlPlayer.name}`
